@@ -1,4 +1,4 @@
-# Google Book Search using MERN Stack 
+# Google Book Search Using MERN Stack 
 
 This application used Google Books API to create an GraphQL API with Apollo Server. MERN stack is implemented to create the app. User can sign up and log in for an account, search for a book of their liking and added to a list of saved books, users can also remove the saved books.
 
@@ -68,6 +68,10 @@ SO THAT I can keep a list of books to purchase
 - "npm start" to enable the port to start listening with mongoose.
 
 # Demo
+
+Follow the link for the deployed application on Heroku:
+
+https://mernbookmern.herokuapp.com/
 
 https://user-images.githubusercontent.com/71202250/129489020-426cca90-6212-48ab-9ed8-049bceabdc25.mp4
 
