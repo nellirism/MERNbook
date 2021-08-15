@@ -7,9 +7,8 @@ This application used Google Books API to create an GraphQL API with Apollo Serv
 - [User Story](#Story)
 - [Acceptance Criteria](#Criteria)
 - [Tools Used](#Tools)
-- [Snapshot](#Snapshot)
-- [Installation & Database SetUp](#Installation)
-- [Heroku](#Heroku)
+- [Installation & Database Setup](#Installation)
+- [Demo](#Heroku)
 - [Author](#Author)
 
 ## User Story
@@ -61,18 +60,16 @@ SO THAT I can keep a list of books to purchase
 - Dotenv
 - Heroku
 
-# Snapshot
-
-[![Book Search](images/BookSearchDemo.png)]
-
-# Installation & Database SetUp
+# Installation & Database Setup
 
 - "npm init" - to create your package.json file.
 - Necessary dependencies will be found on the package.json file.
 - Create a cluster on Mongodb atlas to install database.
 - "npm start" for the port to start listening with mongoose.
 
-# Heroku
+# Demo
+
+[![Book Search deployed in Heroku](images/mernbookmern.mp4)]
 
 # Author
 
