@@ -64,12 +64,12 @@ SO THAT I can keep a list of books to purchase
 
 - "npm init" - to create your package.json file.
 - Necessary dependencies will be found on the package.json file.
-- Create a cluster on Mongodb atlas to install database.
-- "npm start" for the port to start listening with mongoose.
+- Create a cluster on Mongodb Atlas to install database.
+- "npm start" to enable the port to start listening with mongoose.
 
 # Demo
 
-[![Book Search deployed in Heroku](images/mernbookmern.mp4)]
+https://user-images.githubusercontent.com/71202250/129489020-426cca90-6212-48ab-9ed8-049bceabdc25.mp4
 
 # Author
 
